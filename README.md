@@ -1,2 +1,2 @@
-# Kevin Repository
-Data Science Repository for bootcamp projects and coursework
+# Data Science Repository
+Repository for Data Science bootcamp projects and coursework
