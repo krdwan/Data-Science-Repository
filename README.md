@@ -1,4 +1,2 @@
-# KevinRepository
-My First Repository
-dddddd
-Test
+# Kevin Repository
+Data Science Repository for bootcamp projects and coursework
